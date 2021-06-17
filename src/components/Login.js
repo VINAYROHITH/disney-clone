@@ -8,7 +8,7 @@ const Login = (props) =>{
         <CTA>
             <CTALogoOne src='/images/cta-logo-one.svg'/>
             <button className ="ui blue button hover-blue">GET IT ALL THERE </button>
-            <Description>Get Premier Access to Raya and the Last Dragon for an additional fee with a Disney+ subscription.</Description>
+            <Description>Get Access to Raya and the Last Dragon for an additional fee with a Disney+ subscription.</Description>
             <CTALogoTwo src='/images/cta-logo-two.png'/>
         </CTA>
 
