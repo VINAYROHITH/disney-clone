@@ -1,0 +1,14 @@
+.ui.blue.button {
+    padding: 20px 0;
+    background-color:#0063e5;
+    letter-spacing: 1.5px;
+    font-weight:bold;
+    border-radius:4px;
+   
+}
+
+.ui.blue.button:hover{
+    background-color:hsl(207, 97%, 47%) !important;
+    
+}
+
